@@ -115,3 +115,58 @@ margin-right: 55px;
     display: flex;
     justify-content: center;
 }
+.section5{
+    background-color: var(--color6);
+    border: 2px solid var(--color_aux5);
+    padding: 10px;
+}
+.section6{
+    background-color: var(--color6);
+    border: 2px solid var(--color_aux5);
+    padding: 12px;
+}
+.section7{
+    background-color: var(--color6);
+    border: 2px solid var(--color_aux5);
+    padding: 10px;
+}
+.section7-1{
+    background-color: var(--color6);
+    border: 2px solid var(--color_aux5);
+    padding: 10px;
+}
+.section8{
+    background-color: var(--color6);
+    border: 2px solid var(--color_aux5);
+    padding: 20px; 
+}
+.section9{
+    background-color: var(--color6);
+    border: 2px solid var(--color_aux5);
+    padding: 16px;
+}
+.header-fund3{
+    background-image: url(../img/comida-dor-mar.jpg);
+    min-height: 70vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top right;
+}
+.section10{
+    background-color: var(--color6);
+    border: 2px solid var(--color_aux5);
+    padding: 20px;
+}
+.section11{
+    background-color: var(--color6);
+    border: 2px solid var(--color_aux5);
+    padding: 32px;
+}
+.section12{
+    background-color: var(--color6);
+    border: 2px solid var(--color_aux5);
+    padding: 20px;
+}
+nav div ul li a{
+    
+}
