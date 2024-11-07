@@ -167,6 +167,6 @@ margin-right: 55px;
     border: 2px solid var(--color_aux5);
     padding: 20px;
 }
-nav div ul li a{
-    
+a :hover{
+    color: var(--color1);
 }
