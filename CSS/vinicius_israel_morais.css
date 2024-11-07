@@ -1,0 +1,117 @@
+*{
+    color: var(--color_aux5);
+}
+:root{
+--color1: #ffc700;
+--color2: #FFF455;
+--color3: #EE4E4E;
+--color4: #219C90;
+--color_aux5: #ffffff;
+--color_aux6: black;
+}
+
+body{
+    background-color: var(--color4)
+}
+
+header{
+    margin: auto;
+    text-align: center;
+    padding: 10px 0;
+    background-image: url(../img/Vegetais.jpg);
+
+}
+.nav{
+    color: var(--color_aux5);
+    margin: auto;
+    text-align: center;
+    padding: 10px 0;
+}
+.img{
+    width:50px;
+    border-radius: 100%;
+    
+}
+.color_nav{
+    background-color: var(--color4);
+}
+.tnav{
+    color: var(--color_aux5);
+}
+.header-fund{
+background-image: url('../img/Vegetais.jpg');
+    min-height: 70vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top right;
+
+}
+
+header-fund{
+    color: var(--color_aux5);
+
+}
+.r1{
+    display: flex;
+    justify-content: flex-end;
+}
+.corvgs{
+    width: 80vh;
+
+}
+.color_section1{
+    background-color: var(--color3);
+    border: 2px solid var(--color_aux6);
+}
+
+.sec_resolu{
+   padding: 20px;
+   margin-top: 35px;
+}
+.color_section2{
+    background-color: var(--color1);
+    border: 2px solid var(--color_aux6);
+}
+.section3{
+background-color: var(--color3);
+border: 2px solid var(--color_aux6);
+padding: 20px;
+margin-right: 55px;
+}
+.section4{
+    background-color: var(--color1);
+    border: 2px solid var(--color_aux6);
+    padding: 20px;
+    margin-right: 55px;
+}
+.foot{
+   background-color: var(--color_aux6); 
+   padding: 85px;
+   display: flex;
+   justify-content: center;
+}
+.imginsta{
+    width: 10vh;
+}
+.imgwhats{
+    width: 8vh;
+}
+.imggmail{
+    width: 8vh;
+    margin-top: 10px;
+}
+.imgtelegram{
+    width: 8vh;
+}
+
+.header-fund2{
+    background-image: url(../img/Pão.jpg);
+    min-height: 70vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top right;
+}
+.containers{
+    display: flex;
+    justify-content: center;
+}
