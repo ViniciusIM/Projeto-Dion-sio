@@ -167,6 +167,12 @@ margin-right: 55px;
     border: 2px solid var(--color_aux5);
     padding: 20px;
 }
-a :hover{
-    color: var(--color1);
+.nav-link {
+    color: var(--color_aux5);
+    transition: 0.5;
+}
+
+.nav-link:hover {
+    color: var(--color_aux6);
+    transition: 0.5;
 }
